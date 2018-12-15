@@ -15,8 +15,6 @@ public class BinarySearchImpl {
 		System.out.println(sortAlgorithm);
 		
 		// Search array
-		
-		
 		return 3;
 	}
 }
